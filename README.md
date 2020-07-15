@@ -35,7 +35,7 @@ pkg install git
 ```
 git clone https://github.com/Matrix-jailer/URL-shortex.git
 ```
-# Usage 
+### Usage 
 ```
 cd URL-shortex
 chmod +x shortenX.py
@@ -48,7 +48,7 @@ WhatsApp > +923130215090
 ```
 Email    > Matrixjailer@gmail.com
 ```
-# Contribution
+### Contribution
 ```
 If you want to contribute here 
 just fork and open a pull request. 
@@ -57,7 +57,7 @@ just open an issue.
 Found a Problem in Code ?
 Open issue asap :-)
 ```
-# Donate
+### Donate
 BITCOIN ADDRESS
 ```
 13Gau2D3gjTfCmx7dKjSyZETDH182ZS8ox
