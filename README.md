@@ -38,5 +38,6 @@ git clone https://github.com/Matrix-jailer/URL-shortex.git
 # Usage 
 ```
 cd URL-shortex
+chmod +x shortenX.py
 python shotenX.py
 ```
