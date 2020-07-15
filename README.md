@@ -41,3 +41,24 @@ cd URL-shortex
 chmod +x shortenX.py
 python shotenX.py
 ```
+### Contact
+```
+WhatsApp > +923130215090
+```
+```
+Email    > Matrixjailer@gmail.com
+```
+# Contribution
+```
+If you want to contribute here 
+just fork and open a pull request. 
+if you have any suggestions to improve this project 
+just open an issue.
+Found a Problem in Code ?
+Open issue asap :-)
+```
+# Donate
+BITCOIN ADDRESS
+```
+13Gau2D3gjTfCmx7dKjSyZETDH182ZS8ox
+```
