@@ -41,6 +41,11 @@ cd URL-shortex
 chmod +x shortenX.py
 python shotenX.py
 ```
+### Fork
+```
+Fork this repository by clicking on the fork button on the top of this page. 
+This will create a copy of this repository in your account.
+```
 ### Contact
 ```
 WhatsApp > +923130215090
