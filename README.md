@@ -30,6 +30,9 @@ apt update && apt upgrade -y
 pkg install python
 ```
 ```
+npm install cfonts -g
+```
+```
 pkg install git
 ```
 ```
